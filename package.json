@@ -1,0 +1,13 @@
+{
+  "name": "app-wechat",
+  "version": "1.0.0",
+  "description": "微信开发服务端",
+  "main": "app.js",
+  "repository": "https://github.com/haobingwang/app-wecht.git",
+  "author": "liamwang <liamwang@aliyun.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.3"
+  }
+}
